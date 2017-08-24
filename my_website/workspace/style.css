@@ -1,0 +1,19 @@
+nav {
+    float: left;
+    max-width: 170px;
+    margin: 0;
+    padding: 1en;
+    font-size: 3en;
+    color: blue;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1en;
+    overflow: hidden;
+}
+
+header, footer {
+    padding: 1en;
+    color: white;
